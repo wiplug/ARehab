@@ -14,7 +14,7 @@ ARehab is currently using Kinect as user tracking device. This obviously means t
 * See the Kinect v2 requirements [here](https://msdn.microsoft.com/es-es/library/dn782036.aspx).
 
 ### Software requirements:
-* The project is developed using [Microsoft Visual Studio Community 2013](https://go.microsoft.com/fwlink/?LinkId=532495&clcid=0x409), I suggest to use it because there is no CMake Makefile.
+* The project is developed using [Microsoft Visual Studio Community 2013](https://go.microsoft.com/fwlink/?LinkId=532495&clcid=0x409), I suggest to use it because there isn't CMake makefile.
 * [Qt SDK 5.5 OpenSource](http://www.qt.io/download-open-source/)
 * [Visual Studio 2012 add-in for Qt 5 (works well on VS 2013 too)](http://download.qt.io/official_releases/vsaddin/qt-vs-addin-1.2.4-opensource.exe).
 * [GLM](http://glm.g-truc.net/0.9.7/index.html).
