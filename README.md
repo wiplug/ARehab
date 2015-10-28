@@ -3,6 +3,8 @@
 
 ARehab is a free (as in free speech) application for physical rehab, aided by Augmented Reality technologies and user tracking systems, such as Microsoft Kinect v2. It was created during 2015 as a degree project at the University of Granada and the aim of this project is to serve as a physical rehab system that will be usefull for doctors and physical trainers. It's based on different technologies such as augmented reality and user tracking systems.
 
+There are some screenshots of the early release in the project website: [http://jacobodeharo.github.io/ARehab/](http://jacobodeharo.github.io/ARehab/) 
+
 ## Hardware/software requirements
 
 ARehab is currently using Kinect as user tracking device. This obviously means that ARehab system needs a Kinect v2 device, and Kinect SDK v2 installed over Windows 8 (x64), Windows 8.1 (x64) or Windows 10 (x64). However, in a near future, I would like to add more hardware devices for specific body parts, like Leap Motion, commonly used for tracking the hands and fingers. The aim is gradually replacing of all the Microsoft components by their open source alternatives (e.g. libfreenect2 driver) to get a fully multiplatform system for Windows, OSX and Linux.
