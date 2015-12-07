@@ -7,7 +7,7 @@ There are some screenshots of the early release in the project website: [http://
 
 ## Hardware/software requirements
 
-ARehab is currently using Kinect as user tracking device. This obviously means that ARehab system needs a Kinect v2 device, and Kinect SDK v2 installed over Windows 8 (x64), Windows 8.1 (x64) or Windows 10 (x64). However, in a near future, I would like to add more hardware devices for specific body parts, like Leap Motion, commonly used for tracking the hands and fingers. The aim is gradually replacing of all the Microsoft components by their open source alternatives (e.g. libfreenect2 driver) to get a fully multiplatform system for Windows, OSX and Linux.
+ARehab is currently using Kinect as user tracking device. This obviously means that ARehab system needs a Kinect v2 device, and Kinect SDK v2 installed over Windows 8 (x64), Windows 8.1 (x64) or Windows 10 (x64). However, in a near future, I would like to add more hardware devices for specific body parts, like Leap Motion, commonly used for tracking the hands and fingers. The aim is gradually replacing of all the Microsoft components by their open source alternatives (e.g. [libfreenect2 driver](https://github.com/OpenKinect/libfreenect2)) to get a fully multiplatform system for Windows, OSX and Linux.
 
 ### Hardware requirements:
 * Kinect for Windows v2 (out of Windows Store) / Kinect for Xbox One + Kinect for Windows adapter.
